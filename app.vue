@@ -1,5 +1,13 @@
 <template>
-  <div>
-    <NuxtWelcome />
-  </div>
+  <div class="text-red-500 text-xl font-bold">Hello</div>
 </template>
+
+<script>
+export default {
+
+}
+</script>
+
+<style>
+
+</style>
