@@ -1,5 +1,5 @@
 <template>
-  <div class="text-red-500 text-xl font-bold">Hello</div>
+  <div class="container text-red-500">Index page</div>
 </template>
 
 <script>
